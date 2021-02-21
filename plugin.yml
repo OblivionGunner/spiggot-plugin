@@ -1,0 +1,5 @@
+name: Tutorial # the name of the plugin.
+
+version: 1.0.0 # the version of the plugin.
+
+main: io.github.OblivionGunner.randomevents.main
